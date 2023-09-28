@@ -6,7 +6,7 @@
 
 ### Projeto da aula de programação de APP, Universidade Católica de Brasília.
 
-Usando o conceito do CICLO DE VIDA,  ACTIVITY e INTENTS, projeto consiste na criação de um app de Fomulário, onde os dados são introduzidos na primeira pagina e exibidos na segunda passando os dados de uma activity para outra.
+Usando o conceito do CICLO DE VIDA,  ACTIVITY e INTENTS, projeto consiste na criação de um app de Formulário, onde os dados são introduzidos na primeira pagina e exibidos na segunda passando os dados de uma activity para outra.
 
 ## Autor
 

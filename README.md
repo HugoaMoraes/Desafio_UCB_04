@@ -37,7 +37,7 @@ Usando o conceito do CICLO DE VIDA,  ACTIVITY e INTENTS, projeto consiste na cri
 
 | Cor            | Hexadecimal                                                      |
 | -------------- | ---------------------------------------------------------------- |
-| Cor BG 1       | ![#4B9994](https://via.placeholder.com/10/4B9994?text=+) #4B9994 |
+| Cor BG 1       | ![#4b9994](https://via.placeholder.com/10/4b9994?text=+) #4B9994 |
 | Cor BG 2       | ![#64CCC5](https://via.placeholder.com/10/64CCC5?text=+) #64CCC5 |
 | Cor BG 3       | ![#A8D5D2](https://via.placeholder.com/10/A8D5D2?text=+) #A8D5D2 |
 | Cor Botões     | ![#053B50](https://via.placeholder.com/10/053B50?text=+) #053B50 |
